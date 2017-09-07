@@ -1,0 +1,3 @@
+[ENV]
+swith = RateEnv_Testing
+;这是环境切换的开关
